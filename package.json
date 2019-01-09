@@ -1,0 +1,23 @@
+{
+  "name": "@pradhansidhant/number-formatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradhansidhant/number-formatter.git"
+  },
+  "author": "Sidhant Pradhan <sidhantapradhan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradhansidhant/number-formatter/issues"
+  },
+  "homepage": "https://github.com/pradhansidhant/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
